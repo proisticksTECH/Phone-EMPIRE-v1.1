@@ -1,0 +1,11 @@
+{
+  "title": "Phone EMPIRE",
+  "description": "Make phones, get upgrades and make your empire grow!",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
